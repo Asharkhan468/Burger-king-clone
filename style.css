@@ -66,6 +66,10 @@ border: 1px solid #ff0000;
     
 }
 
+.fa-bars{
+    font-size: 22px;
+}
+
 
 
 .card{
@@ -78,7 +82,17 @@ border: 1px solid #ff0000;
     padding: 10px;
 }
 
-
+.bg-pink{
+    background-color: #ffc0cb;
+}
+.ml{
+    margin-left: 100px;
+}
+.ending{
+    background-color: var(--brown);
+    color:#fff;
+    padding: 10px;
+}
 
 /* Main styling ended */
 
